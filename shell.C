@@ -127,6 +127,8 @@ int main()
         }
         //else {printf("written command-> %s\n", text);}
 
+    // amaoralalalsdasd
+
     }
     free(text);
 }
